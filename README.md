@@ -1,2 +1,1 @@
-# Audio-visualiser
-Html &amp; Js
+# audio-visualiser-js
