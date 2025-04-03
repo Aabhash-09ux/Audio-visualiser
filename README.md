@@ -14,8 +14,7 @@ Audio Visualizer is a dynamic application that generates real-time visual repres
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/audio-visualizer.git
-    ```
+https://github.com/Aabhash-09ux/Audio-visualiser    ```
 2. Navigate to the project directory:
     ```bash
     cd audio-visualizer
